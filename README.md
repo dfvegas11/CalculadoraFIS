@@ -1,7 +1,9 @@
 # CalculadoraFIS
 
 **David Felipe Vega Sierra - 20182020033**
+
 **Juan David Pardo Rodriguez - 20182020020**
+
 **Gabriel Parra Cortes - 20182020031**
 
 ### Requerimientos funcionales: 
