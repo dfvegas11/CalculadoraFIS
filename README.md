@@ -25,7 +25,7 @@
 5. Despliegue(2 horas).
 6. Soportes necesarios(-- horas).
 
-### Costos.
+### Costos. :moneybag:
 
 - Total horas trabajadas(T): 25 horas aproximadamente.
 - Precio por hora de desarrollo(P/h): $4.000/h COP.
