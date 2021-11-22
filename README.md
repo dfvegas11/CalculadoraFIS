@@ -28,5 +28,5 @@
 ### Costos. :moneybag:
 
 - Total horas trabajadas(T): 25 horas aproximadamente.
-- Precio por hora de desarrollo(P/h): $4.000/h COP.
-- Precio total de la creación del proyecto:P/h x T =  $4.000/h x 25h = $95.000 COP.
+- Precio por hora de desarrollo(P/h): $30.000/h COP.
+- Precio total de la creación del proyecto:P/h x T =  $4.000/h x 25h = $750.000 COP.
